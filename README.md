@@ -1,6 +1,6 @@
 # ExampleForGlide
 
-This is an exercise program for Glide
+This is a demo for Glide
 
 # Libraries
 >com.android.support:recyclerview-v7:24.2.1'
