@@ -4,10 +4,15 @@ This is a demo for Glide
 
 # Libraries
 >com.android.support:recyclerview-v7:24.2.1'
+
 >com.github.bumptech.glide:glide:3.7.0'
+
 >com.android.support:appcompat-v7:24.2.1'
+
 >com.jakewharton:butterknife:7.0.1'
+
 >jp.wasabeef:glide-transformations:2.0.1'
+
 >jp.co.cyberagent.android.gpuimage:gpuimage-library:1.3.0'
 
 
